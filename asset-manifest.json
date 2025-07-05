@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PElatro/static/css/main.77a35754.css",
+    "main.js": "/PElatro/static/js/main.d645748b.js",
+    "static/js/453.b21a91d2.chunk.js": "/PElatro/static/js/453.b21a91d2.chunk.js",
+    "static/media/m6x11plus.ttf": "/PElatro/static/media/m6x11plus.4ca71169cc9e3ea5d4eb.ttf",
+    "index.html": "/PElatro/index.html",
+    "main.77a35754.css.map": "/PElatro/static/css/main.77a35754.css.map",
+    "main.d645748b.js.map": "/PElatro/static/js/main.d645748b.js.map",
+    "453.b21a91d2.chunk.js.map": "/PElatro/static/js/453.b21a91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a35754.css",
+    "static/js/main.d645748b.js"
+  ]
+}
