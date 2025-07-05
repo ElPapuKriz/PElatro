@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./menu.css"; 
 
-const Voices = Array.from({length:11}, (_,i) => `/resources/sounds/voice${i+1}.ogg`);
+const Voices = Array.from({length:11}, (_,i) => `${process.env.PUBLIC_URL}/resources/sounds/voice${i+1}.ogg`);
 
 function Menu() {
   class Cartas {
