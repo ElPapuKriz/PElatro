@@ -1,0 +1,20 @@
+.menu {
+  display: grid;
+  grid-template-columns: repeat(auto, 1fr);
+}
+
+.card {
+  background-color: cadetblue;
+  width: 150px;
+  height: 200px;
+  border-radius: 18px;
+  justify-self: center;
+  cursor: pointer;
+}
+
+h4 {
+  font-family: 'm6x11', sans-serif;
+  font-size: 2rem;
+  color: #000000;
+  text-align: center;
+}
